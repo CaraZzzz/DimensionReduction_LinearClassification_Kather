@@ -10,4 +10,4 @@ The highest classification accuracy result in test set I got is around 76%.
 
 There are no data preprocessing and no image augmentation in this code (in fact I tried, but there is no improvement in the performance).
 
-To improve the performance, you may use more comlex classifier.
+To improve the performance, you may use more comlex classifier. Or you may expect me to implement and update later.
