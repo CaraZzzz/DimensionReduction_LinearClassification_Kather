@@ -2,6 +2,8 @@
 
 The data were downloaded from https://www.kaggle.com/datasets/kmader/colorectal-histology-mnist?resource=download
 
+This is a colorectal cancer figure dataset. 
+
 The dimension reduction method used here includes PCA, LDA and PCA+LDA.
 
 The classification used here includes KNN, minimum Mahalanobis distance classifier and softmax classifier. 
